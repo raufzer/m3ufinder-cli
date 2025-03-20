@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"m3ufinder-cli/cmd"
 	"os"
 )
 
